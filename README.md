@@ -7,4 +7,19 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
-I am Harishkumar
+I'm Harishkumar 👋
+
+### 🧑‍💻 **About Me:**
+- 🔒 **Cybersecurity Enthusiast** specializing in **Ethical Hacking** and **Web Application Penetration Testing**.
+- 🚀 Passionate about securing systems, exploring vulnerabilities, and crafting secure solutions.
+---
+### 📊 **GitHub Stats:**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehatboy005&layout=compact&theme=radical"/>
+</p>
+---
+### 📫 **Connect with Me:**
+<p align="center">
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/whitehatboy005"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
