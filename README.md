@@ -13,10 +13,12 @@ I'm Harishkumar 👋
 - 🔒 **Cybersecurity Enthusiast** specializing in **Ethical Hacking** and **Web Application Penetration Testing**.
 - 🚀 Passionate about securing systems, exploring vulnerabilities, and crafting secure solutions.
 ---
-### 📊 **GitHub Stats:**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehatboy005&layout=compact&theme=radical"/>
-</p>
+<h2 id="github_stats" align=''> 📊GitHub Stats 👨‍💻</h2>
+
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitehatboy005&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/whitehatboy005/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=whitehatboy005&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/whitehatboy005/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehatboy005&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+
 ---
 ### 📫 **Connect with Me:**
 <p align="center">
