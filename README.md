@@ -20,6 +20,12 @@ I'm Harishkumar 👋
 ---
 ### 📫 **Connect with Me:**
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/whitehatboy005"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+   <a href="mailto:whitehatboy005@proton.me">
+    <img src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white" alt="ProtonMail" />
+  </a>
+  <a href="mailto:whitehatboy05@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/whitehatboy005">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
