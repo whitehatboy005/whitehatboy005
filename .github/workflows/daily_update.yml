@@ -25,6 +25,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
+          git pull origin main  # Pull the latest changes to avoid conflicts
           git add .
           git commit -m "Automated daily update" || echo "No changes to commit"
-          git push
+          git push origin main  # Ensure the correct branch is specified
