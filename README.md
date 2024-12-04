@@ -10,7 +10,7 @@
 <h3> I'm Harishkumar 👋</h3>
 
 ### 🧑‍💻 **About Me:**
-- 🔒 **Cybersecurity Researcher** learning **Ethical Hacking** and **Web Application Penetration Testing**.
+- 🔒 **Cybersecurity Enthusiast** specializing in **Ethical Hacking** and **Web Application Penetration Testing**.
 - 🚀 Passionate about securing systems, exploring vulnerabilities, and crafting secure solutions.
 ---
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
