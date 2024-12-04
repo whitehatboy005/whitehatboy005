@@ -7,11 +7,12 @@ def update_file():
 
 def git_commit_push():
     try:
-        subprocess.run(["git", "add", "log.txt"], check=True)
-        subprocess.run(["git", "commit", "-m", "Automated daily update"], check=True)
-        subprocess.run(["git", "push"], check=True)
-    except subprocess.CalledProcessError as e:
-        print(f"Error during git operation: {e}")
+    # Open the file in append mode
+    with open("README.md", "a") as f:
+        f.write("\nThis is the daily update!")
+    print("Update written successfully.")
+except Exception as e:
+    print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     update_file()
