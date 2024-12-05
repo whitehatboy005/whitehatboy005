@@ -31,7 +31,7 @@
   </div>
 </div>
 <br>
-<h2 id="Practicing & Learning Platforms" align=''> Practicing & Learning Platforms </h2>
+<h2 id="Practicing & Learning Platforms" align=''> Practice & Learning Platforms </h2>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
