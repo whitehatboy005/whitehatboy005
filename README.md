@@ -7,13 +7,13 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
-<h3>I'm Harishkumar 👋</h3>
+<h3> I'm Harishkumar 👋 </h3>
 
 ### 🧑‍💻 **About Me:**
 - 🔒 **Cybersecurity Enthusiast** specializing in **Ethical Hacking** and **Web Application Penetration Testing**.
 - 🚀 Passionate about securing systems, exploring vulnerabilities, and crafting secure solutions.
 ---
-<h2 id="knowledge_skills" align=''>Knowledge & Skills</h2>
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -46,7 +46,9 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=whitehatboy005&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/whitehatboy005/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehatboy005&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=whitehatboy005&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### 📫 **Connect with Me:**
 <p align="center">
    <a href="mailto:whitehatboy005@proton.me">
@@ -56,5 +58,11 @@
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/whitehatboy005">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/white_hat_boy_005">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
 </p>
+
+
