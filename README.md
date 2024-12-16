@@ -37,6 +37,7 @@
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe" />
     <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
+    <img src="https://img.shields.io/badge/PortSwigger_Academy-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="PortSwigger Academy" />
   </div>
 </div>
 <br>
