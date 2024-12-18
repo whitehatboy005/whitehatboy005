@@ -44,7 +44,7 @@
 
 ### 📊 **GitHub Stats 🧑‍💻**
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitehatboy005&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/whitehatboy005/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=whitehatboy005&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=whitehatboy005&theme=dark&hide_border=true&card_width=450)](https://git.io/streak-stats)
  <p align="left"><a href="https://github.com/whitehatboy005/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whitehatboy005&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 ## 🏆 GitHub Trophies
