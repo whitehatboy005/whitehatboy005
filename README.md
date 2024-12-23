@@ -24,10 +24,11 @@
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
-      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&color=000000" alt="Parrot OS" />
+      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&logoColor=white&color=000000" alt="BlackArch" />
+<img src="https://img.shields.io/badge/Parrot_OS-2E8E8F?style=for-the-badge&logo=parrot&logoColor=white&color=000000" alt="Parrot OS" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+      <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green" alt="PyCharm" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker" />
   </div>
 </div>
 <br>
