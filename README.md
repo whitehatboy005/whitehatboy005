@@ -7,13 +7,13 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
-<h3>I'm Harishkumar 👋</h3>
+<h3> I'm Harishkumar 👋 </h3>
 
 ### 🧑‍💻 **About Me:**
 - 🔒 **Cybersecurity Enthusiast** specializing in **Ethical Hacking** and **Web Application Penetration Testing**.
 - 🚀 Passionate about securing systems, exploring vulnerabilities, and crafting secure solutions.
 ---
-<h2 id="knowledge_skills" align=''>Knowledge & Skills</h2>
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
