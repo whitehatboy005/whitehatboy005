@@ -69,3 +69,4 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
   </a>
 </p>
+![GitHub Snake Animation](https://github.com/whitehatboy005/whitehatboy005/blob/output/github-snake.svg)
